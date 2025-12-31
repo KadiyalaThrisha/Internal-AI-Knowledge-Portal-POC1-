@@ -1,1 +1,1 @@
-# Internal-AI-Knowledge-Portal-POC1-
+# Internal-AI-Knowledge-Portal-POC1

@@ -1,0 +1,50 @@
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+html5lib
+selenium>=4.10
+webdriver-manager>=3.8
+beautifulsoup4
+lxml
+requests
+
+
+
+
+# Core
+python-dotenv
+requests
+tqdm
+
+# Streamlit UI
+streamlit
+
+# LangGraph + LangChain
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-groq
+
+# LLM Providers
+openai
+groq
+
+# Vector DB
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Parsing (arXiv adapter)
+feedparser
+
+# Optional useful libs
+numpy
+scikit-learn
+unstructured
+playwright
